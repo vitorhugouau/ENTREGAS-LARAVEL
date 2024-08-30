@@ -1,3 +1,3 @@
 # Banco de Dados
 
-![Screenshot](img/login.png)
+![Screenshot](img/banco.png)
